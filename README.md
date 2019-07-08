@@ -1,0 +1,1 @@
+Stock Trading Game created using Python, SQLite database and Markit API. Users can create and ID and receive $100000 credit to buy and sell stocks based on realtime stock prices received from the Markit API. 
